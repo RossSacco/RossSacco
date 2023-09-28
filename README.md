@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">
+  <a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ" >
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a/>
   <a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">
