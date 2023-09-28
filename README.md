@@ -2,7 +2,9 @@
 
 - 👩🏻‍💻 Computer Engineering Student
 
-
+<p align = "left">
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg />
+</p>
 <!--
 **RossSacco/RossSacco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
