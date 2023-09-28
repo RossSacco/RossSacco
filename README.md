@@ -42,4 +42,6 @@
 
 ###
 
+<p align = "center">New projects will be available soon!</p>
+
 
