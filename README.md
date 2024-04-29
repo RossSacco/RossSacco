@@ -33,7 +33,6 @@
 ###
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosssacco&show_icons=true&locale=en&layout=compact" alt="rosssacco" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rosssacco&show_icons=true&hide=issues&locale=en" alt="rosssacco" /></p>
 
 ###
 <h3>Contact me:</h3>
