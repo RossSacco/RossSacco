@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 👩🏻‍💻 I'm a Computer Engineering Student<br>- 🏛 University of Pisa<br>- 🇮🇹 Made in Italy</p>
+<p align="left">- 👩🏻‍💻 I'm a Artificial Intelligence and Data Engineering student <br>- I have a Bachelor's Degree in Computer Engineering at UniPi <br>- 🏛 University of Pisa<br>- 🇮🇹 Made in Italy</p>
 
 ###
 
