@@ -4,7 +4,11 @@
 
 <p align="left" style="font-size: 20px;">- 👩🏻‍💻 I'm an Artificial Intelligence and Data Engineering student <br>- 🎓 I have a Bachelor's Degree in Computer Engineering <br>- 🏛 University of Pisa<br>- 🇮🇹 Made in Italy</p>
 
-###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rosssacco/count.svg?" />
+</div>
+
 
 <h3 align="left">Languages and more</h3>
 
